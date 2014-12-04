@@ -1,4 +1,1 @@
-dashing-playpen
-===============
-
-Having a little mess about with the dashing framework
+Check out http://shopify.github.com/dashing for more information.
